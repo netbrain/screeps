@@ -1,1 +1,5 @@
-harvesterRole.js
+module.exports = {
+  run: function(creep){
+
+  }
+};
